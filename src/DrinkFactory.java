@@ -1,0 +1,3 @@
+interface DrinkFactory{
+    Drink createDrink();
+}

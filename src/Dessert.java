@@ -1,0 +1,3 @@
+interface Dessert{
+    void eat();
+}
